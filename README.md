@@ -25,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansikhandare16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Mansikhandare16/DSA/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansikhandare16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mansikhandare16/DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mansikhandare16/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

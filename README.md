@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Mansikhandare16/DSA/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Mansikhandare16/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Mansikhandare16/DSA/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/Mansikhandare16/DSA/tree/master/1179-reformat-department-table) |
 ## Two Pointers
 |  |
 | ------- |

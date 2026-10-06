@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mansikhandare16/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mansikhandare16/DSA/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mansikhandare16/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mansikhandare16/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Mansikhandare16/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mansikhandare16/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mansikhandare16/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mansikhandare16/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mansikhandare16/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |

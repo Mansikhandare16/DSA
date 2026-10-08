@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mansikhandare16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansikhandare16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mansikhandare16/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mansikhandare16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/Mansikhandare16/DSA/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansikhandare16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansikhandare16/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mansikhandare16/DSA/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Mansikhandare16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Mansikhandare16/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Mansikhandare16/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansikhandare16/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mansikhandare16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mansikhandare16/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Mansikhandare16/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,8 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mansikhandare16/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansikhandare16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Mansikhandare16/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mansikhandare16/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mansikhandare16/DSA/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mansikhandare16/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mansikhandare16/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

@@ -5,7 +5,7 @@ public:
         int high=nums.size()-1;
 
         while(low<=high){
-            int guess=(low+high)/2;
+            int guess=low+(high-low)/2;
 
             if(nums[guess]==target){
                 return guess;

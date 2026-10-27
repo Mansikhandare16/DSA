@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Mansikhandare16/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Mansikhandare16/DSA/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mansikhandare16/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/Mansikhandare16/DSA/tree/master/0577-employee-bonus) |
 | [0626-exchange-seats](https://github.com/Mansikhandare16/DSA/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Mansikhandare16/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mansikhandare16/DSA/tree/master/1045-customers-who-bought-all-products) |

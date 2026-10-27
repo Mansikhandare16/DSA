@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Mansikhandare16/DSA/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mansikhandare16/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Mansikhandare16/DSA/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Mansikhandare16/DSA/tree/master/0584-find-customer-referee) |
 | [0626-exchange-seats](https://github.com/Mansikhandare16/DSA/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Mansikhandare16/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mansikhandare16/DSA/tree/master/1045-customers-who-bought-all-products) |

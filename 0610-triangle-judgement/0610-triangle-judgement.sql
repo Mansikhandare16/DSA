@@ -1,11 +1,5 @@
 # Write your MySQL query statement below
-SELECT x, y, z,
-    CASE
-       WHEN x+y>z
-          AND x+z>y
-          AND z+y>x THEN 'Yes'
-        ELSE 'No'
-    END AS triangle
-FROM Triangle;
+select x, y, z, if((x+y > z) and (y + z > x) and (x + z > y), "Yes", "No") as `triangle`
+from triangle
 
 # logic is that two line segment's sum should be greater than third line segment's sum

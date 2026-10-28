@@ -7,3 +7,5 @@ SELECT x, y, z,
         ELSE 'No'
     END AS triangle
 FROM Triangle;
+
+# logic is that two line segment's sum should be greater than third line segment's sum

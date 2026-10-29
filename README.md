@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Mansikhandare16/DSA/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Mansikhandare16/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Mansikhandare16/DSA/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Mansikhandare16/DSA/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Mansikhandare16/DSA/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Mansikhandare16/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mansikhandare16/DSA/tree/master/1045-customers-who-bought-all-products) |

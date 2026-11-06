@@ -1,41 +1,29 @@
 class Solution {
 public:
-    int fun(vector<vector<int>>& matrix, int n,int m,int guess){
-        int count=0;
-        int row=n-1;
-        int col=0;
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>> pq;
+        int n=matrix.size();
 
-        while(row>=0 && col<m){
-            if(matrix[row][col]<=guess){  //check kitne chote element hais guess se pehle
-                count+=row+1;
-                col++;
+        for(int i=0;i<n;i++){
+            pq.push({matrix[i][0],i,0});
+        }
+        while(!pq.empty()){
+            vector<int> top =pq.top();
+            pq.pop();
+            
+            int value=top[0];
+            int row=top[1];
+            int col=top[2];
+
+            k--;
+            if(k==0){
+                return value;
             }
-            else{
-                row--;
+            
+            if(col+1<n){
+                pq.push({matrix[row][col+1],row,col+1});
             }
         }
-        return count;
-    }
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n=matrix.size();
-        int m=matrix[0].size();
-
-        int low=matrix[0][0];
-        int high=matrix[n-1][m-1];
-        int res=-1;
-
-        while(low<=high){
-            int guess=low+(high-low)/2;
-            int ans=fun(matrix,n,m,guess);
-
-            if(ans<k){
-                low=guess+1;
-            }
-            else{
-                res=guess;
-                high=guess-1;
-            }
-        }   
-        return res;
+        return -1;
     }
 };

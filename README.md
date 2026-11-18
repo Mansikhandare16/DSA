@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mansikhandare16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mansikhandare16/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mansikhandare16/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Mansikhandare16/DSA/tree/master/0071-simplify-path) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mansikhandare16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Mansikhandare16/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mansikhandare16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Mansikhandare16/DSA/tree/master/0202-happy-number) |
@@ -350,5 +352,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Mansikhandare16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mansikhandare16/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

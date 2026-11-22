@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mansikhandare16/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Mansikhandare16/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Mansikhandare16/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Mansikhandare16/DSA/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Mansikhandare16/DSA/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/Mansikhandare16/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mansikhandare16/DSA/tree/master/0767-reorganize-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mansikhandare16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Mansikhandare16/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mansikhandare16/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mansikhandare16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mansikhandare16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Mansikhandare16/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mansikhandare16/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mansikhandare16/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mansikhandare16/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mansikhandare16/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mansikhandare16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mansikhandare16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mansikhandare16/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Mansikhandare16/DSA/tree/master/0502-ipo) |

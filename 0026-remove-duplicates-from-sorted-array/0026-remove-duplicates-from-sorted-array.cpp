@@ -9,9 +9,9 @@ public:
                 j++;
                 continue;
             }
-            nums[start+1]=nums[j++];
-            start++;
-            res++;
+           nums[start+1]=nums[j++];
+           res++; 
+           start++;
         }
         return res;
     }
